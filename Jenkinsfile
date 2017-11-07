@@ -5,4 +5,4 @@ import common.uline.jenkins.*
 
 //################################### Define Jenkins Pipeline specific configurations ##################################
 
-new PipelineBootstrap().createCommonAzureJenkinsPipeline().triggerCommonJenkinsPipeline()
+new PipelineBootstrap().createCommonAzureJenkinsPipeline().triggerCommonAzureJenkinsPipeline()
