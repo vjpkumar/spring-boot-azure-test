@@ -1,7 +1,7 @@
 #!groovy
 
 @Library('common-jenkins-library')
-import common.uline.jenkins.*
+import common.vj.jenkins.*
 
 //################################### Define Jenkins Pipeline specific configurations ##################################
 
